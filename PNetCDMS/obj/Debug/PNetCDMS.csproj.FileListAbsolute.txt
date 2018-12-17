@@ -1,0 +1,12 @@
+C:\Users\PNet-ITMain\source\repos\PNetCDMS\bin\Debug\PNetCDMS.exe.config
+C:\Users\PNet-ITMain\source\repos\PNetCDMS\bin\Debug\PNetCDMS.exe
+C:\Users\PNet-ITMain\source\repos\PNetCDMS\bin\Debug\PNetCDMS.pdb
+C:\Users\PNet-ITMain\source\repos\PNetCDMS\obj\Debug\PNetCDMS.csprojAssemblyReference.cache
+C:\Users\PNet-ITMain\source\repos\PNetCDMS\obj\Debug\PNetCDMS.Form1.resources
+C:\Users\PNet-ITMain\source\repos\PNetCDMS\obj\Debug\PNetCDMS.Properties.Resources.resources
+C:\Users\PNet-ITMain\source\repos\PNetCDMS\obj\Debug\PNetCDMS.csproj.GenerateResource.cache
+C:\Users\PNet-ITMain\source\repos\PNetCDMS\obj\Debug\PNetCDMS.csproj.CoreCompileInputs.cache
+C:\Users\PNet-ITMain\source\repos\PNetCDMS\obj\Debug\PNetCDMS.exe
+C:\Users\PNet-ITMain\source\repos\PNetCDMS\obj\Debug\PNetCDMS.pdb
+C:\Users\PNet-ITMain\source\repos\PNetCDMS\bin\Debug\MySql.Data.dll
+C:\Users\PNet-ITMain\source\repos\PNetCDMS\obj\Debug\PNetCDMS.csproj.CopyComplete

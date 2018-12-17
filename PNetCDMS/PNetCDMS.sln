@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PNetCDMS", "PNetCDMS.csproj", "{3105658B-7814-4025-AC46-632C7BF3D3BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3105658B-7814-4025-AC46-632C7BF3D3BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3105658B-7814-4025-AC46-632C7BF3D3BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3105658B-7814-4025-AC46-632C7BF3D3BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3105658B-7814-4025-AC46-632C7BF3D3BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6A3C768-3724-4958-B5CE-FADCC17790BA}
+	EndGlobalSection
+EndGlobal
